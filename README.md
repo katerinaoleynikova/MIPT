@@ -5,4 +5,4 @@ The task description:
 2. The language is used in this repository (of the BI) - WDL (Workflow Description Language): https://github.com/openwdl/wdl/blob/main/versions/1.0/SPEC.md
 ____________________________________________
 3. We are interested in the pipeline of Variant Calling retrieved from a full genome: https://github.com/broadinstitute/warp/tree/develop/pipelines/broad/dna_seq/germline/single_sample/wgs
-
+4. We should modify it in such a way that would identify SNP/indel and structural variants simultaneously.
