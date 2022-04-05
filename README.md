@@ -12,4 +12,5 @@ ____________________________________________
 Additional comments:  
 To launch WDL files I've used Cromwell (https://github.com/broadinstitute/cromwell) (its tutorial: https://cromwell.readthedocs.io/en/stable/tutorials/FiveMinuteIntro/).  
 The branch "develop" in the broad/warp repository was formed (fork).  
-The created fragment script "smoove_fragment.wdl" was integrated via this branch in the main script (https://github.com/broadinstitute/warp/blob/develop/pipelines/broad/dna_seq/germline/single_sample/wgs/WholeGenomeGermlineSingleSample.wdl).
+The created fragment script "smoove_fragment.wdl" was integrated via this branch in the main script (https://github.com/broadinstitute/warp/blob/develop/pipelines/broad/dna_seq/germline/single_sample/wgs/WholeGenomeGermlineSingleSample.wdl).  
+The inf. about speed and accuracy of smoove can be found here: https://repositories.lib.utexas.edu/bitstream/handle/2152/84497/Pugalenthi-poster.pdf?sequence=1&isAllowed=y.
