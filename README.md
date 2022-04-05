@@ -6,7 +6,7 @@ The task description:
 ____________________________________________
 3. We are interested in the pipeline of Variant Calling retrieved from a full genome: https://github.com/broadinstitute/warp/tree/develop/pipelines/broad/dna_seq/germline/single_sample/wgs
 4. We should modify it in such a way that would identify SNP/indel and structural variants simultaneously (using bash script of smoove tool (for indetifying of SVs) as an example).  
-5*. Look at the GATK tool for SVs searching (https://gatk.broadinstitute.org/hc/en-us/articles/360042914831-StructuralVariationDiscoveryPipelineSpark-BETA-) and compare it with smoove tool in terms of speed and results similarity (it is possible to do that according to literature review).
+5*. Look at the GATK tool for SVs searching (https://gatk.broadinstitute.org/hc/en-us/articles/360042914831-StructuralVariationDiscoveryPipelineSpark-BETA-) and compare it with smoove tool in terms of speed and results similarity (it is possible to do that according to a literature review).
 
 Additional comments:  
 To launch WDL files I've used Cromwell (https://github.com/broadinstitute/cromwell) (its tutorial: https://cromwell.readthedocs.io/en/stable/tutorials/FiveMinuteIntro/).  
