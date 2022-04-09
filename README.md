@@ -1,4 +1,4 @@
-In this repo, the test task is contained.
+In this repo, the task is contained.
 
 The task description:  
 1. We get the link to the of. repository of the Broad Institute that contains their pipelines: https://github.com/broadinstitute/warp  
